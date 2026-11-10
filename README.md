@@ -23,6 +23,16 @@ A modern responsive Hajj and Umrah travel guide website developed using HTML5, C
 
 Hosted using GitHub Pages.
 
-## Author
+## 👨‍💻 Author
 
-Savul Hameed Sahran
+**Sahran Hameed**
+- GitHub: [@SahranHameed](https://github.com/SahranHameed)
+- LinkedIn: [Sahran Hameed](https://www.linkedin.com/in/sahran-hameed/)
+- Portfolio: [sahranhameed.github.io](https://sahranhameed.github.io/My-Portfolio/)
+- HackerRank: [Sahran Hameed_it](https://www.hackerrank.com/profile/sahranhameed_it)
+
+Frontend Developer | Full Stack Learner | Networking & Cloud Security Enthusiast
+
+## ⭐ If you like this project 
+
+Give it a Star on GitHub.⭐
